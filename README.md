@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_harsh_i" target="blank"><img src="https://img.shields.io/twitter/follow/i_harsh_i?logo=twitter&style=for-the-badge" alt="i_harsh_i" /></a> </p>
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **Google Cloud ☁️**
 
 - 💬 Ask me about **Web Development and DSA**
 
