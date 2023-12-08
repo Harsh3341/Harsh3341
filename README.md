@@ -1,4 +1,4 @@
-![MasterHead](./gifs%20and%20images/Banner.png)
+![MasterHead](./gifs%20and%20images/LinkedIn%20Background%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">Full Stack Web Developer, Exploring Every Tech👨‍💻</h3>
