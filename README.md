@@ -1,4 +1,4 @@
-![MasterHead](./gifs%20and%20images/LinkedIn%20Background%20(1).png)
+![MasterHead](./gifs%20and%20images/LinkedIn%20Background%20%281%29.png)
 
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">Full Stack Web Developer, Exploring Every Tech👨‍💻</h3>
@@ -22,6 +22,8 @@
 <a href="https://www.leetcode.com/pixerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pixerx" height="30" width="40" /></a>
 </p>
 
+<br clear="left"/>
+
 ##
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,11 +38,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/harsh3341">
-
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh3341&show_icons=true&locale=en&layout=compact" alt="harsh3341" />
-
-<img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3341&" alt="harsh3341" />
-    </a>
-  </p>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh3341&show_icons=true&locale=en&layout=compact" alt="harsh3341" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3341&" alt="harsh3341" />
+</p>
