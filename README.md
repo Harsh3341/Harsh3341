@@ -113,7 +113,7 @@
 
 <br/>
 
-<img src="./metrics/metrics.habits.svg" alt="commit habits and calendar" />
+<img src="./metrics/metrics.habits.svg" alt="commit calendar" />
 
 </div>
 
