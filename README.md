@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 - 💼 **Software Engineer** at **OneBanc Technologies**, building secure backend systems and APIs
-- 🎓 B.Tech in Computer Science and Engineering — **CGPA 8.92**
+- 🎓 B.Tech in Computer Science and Engineering
 - 🌱 Currently deepening my work with **.NET Core, distributed systems & Google Cloud ☁️**
 - 💬 Ask me about **Full Stack Development (.NET / React)** and **DSA**
 - 🏫 Ex GDSC Co-Lead/Tech Lead — mentored 300+ students & ran Google Cloud Study Jams
@@ -109,7 +109,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3341&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=harsh3341&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/>
 
