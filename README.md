@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./gifs%20and%20images/LinkedIn%20Background%20%281%29.png" alt="Harsh Gupta banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20(.NET%20%26%20React)&descAlignY=58&descSize=18&animation=fadeIn" alt="Harsh Gupta banner" width="100%" />
 
 <!-- Animated intro -->
 <div align="center">
